@@ -29,3 +29,5 @@ Why I don't like sunsets:
 1. They set the relaxed vibe of a sunset
 2. They are comfortable
 3. They are trending right now. 
+
+[Lab Report 1](https://daikonplays.github.io/cse15l-lab-reports/lab-report-1-week-%202.html)
