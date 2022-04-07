@@ -22,3 +22,10 @@ Why I don't like sunsets:
 ```
 3 reasons for good and 2 for bad
 ```
+
+## What to wear for sunsets
+**Flowy clothing**
+
+1. They set the relaxed vibe of a sunset
+2. They are comfortable
+3. They are trending right now. 
