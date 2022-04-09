@@ -39,4 +39,5 @@ Then connect to the server, type "mkdir .ssh", log back into your computer, and 
 cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys".
 
 ## Step 6: Optimizing Remote Running
-
+![Image](Step7.png)
+I used some shortcuts such as ; to write multiple commands in one line. This would speed up the process since it runs everything at once. 
