@@ -12,7 +12,7 @@ For Windows, you must install OpenSSH Client and OpenSSH Server by opening Setti
 
 Then, on VSCode, type in 
 
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
+`$ ssh cs15lsp22zz@ieng6.ucsd.edu`
 
 and replace zz with the letters to your course-specific account.
 
@@ -28,16 +28,16 @@ Just type them into your connected terminal to run these commands. Some of them 
 
 ## Step 4: Moving Files with scp
 
-Copy "scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/" (where zz is your course-specific account) into your computer's terminal, so not the remote connection. Then, remote connect to the server and use the command **ls** to copy the file over to the home directory. 
+Copy `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` (where zz is your course-specific account) into your computer's terminal, so not the remote connection. Then, remote connect to the server and use the command `ls` to copy the file over to the home directory. 
 ![Image](movingscp.png)
 
 ## Step 5: Setting an SSH key
 
-![Image](movingscp.png)
-On your computer terminal, copy this command : $ ssh-keygen and click enter until you get the keygen. Follow these extra steps for [Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
-Then connect to the server, type "mkdir .ssh", log back into your computer, and enter "scp /Users/user-name/.ssh/id_rsa.pub
-cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys".
+![Image](SSHkey.png)
+On your computer terminal, copy this command: `$ ssh-keygen` and click enter until you get the keygen. Follow these extra steps for [Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
+Then connect to the server, type `mkdir .ssh`, log back into your computer, and enter `scp /Users/user-name/.ssh/id_rsa.pub
+cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`.
 
 ## Step 6: Optimizing Remote Running
 ![Image](Step7.png)
-I used some shortcuts such as ; to write multiple commands in one line. This would speed up the process since it runs everything at once. 
+I used some shortcuts such as `;` to write multiple commands in one line. This would speed up the process since it runs everything at once. 
