@@ -31,3 +31,5 @@ Why I don't like sunsets:
 3. They are trending right now. 
 
 [Lab Report 1](https://daikonplays.github.io/cse15l-lab-reports/lab-report-1-week-%202.html)
+
+[Lab Report 2](https://daikonplays.github.io/cse15l-lab-reports/lab-report-2-week-%204.html)
