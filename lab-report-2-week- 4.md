@@ -1,5 +1,8 @@
 ![Image](codediff.png) 
+[Link to first test file](https://github.com/DaikonPlays/markdown-parser/blob/main/test-file.md)
 
+![Image](1stbug.png)
+This is the symptom of the first bug. 
 
 Another bug is that the file does not differentiate between a link and an image in test-file.md. Therefore, it will add the image to the array when it shoudln't include it.
 
