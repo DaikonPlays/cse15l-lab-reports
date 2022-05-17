@@ -34,4 +34,4 @@ Why I don't like sunsets:
 
 [Lab Report 2](https://daikonplays.github.io/cse15l-lab-reports/lab-report-2-week-%204.html)
 
-[Lab Report 3](https://github.com/DaikonPlays/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)
+[Lab Report 3](https://daikonplays.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
